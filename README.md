@@ -41,5 +41,5 @@ The dashboard helps visualize:
 
 ## 👨‍💻 Created By
 
-Ibrahim Visal Sidat
+Ibrahim Sidat
 Aspiring Data Analyst
