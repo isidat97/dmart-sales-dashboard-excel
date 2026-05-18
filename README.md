@@ -37,8 +37,7 @@ The dashboard helps visualize:
 
 ## 📷 Dashboard Preview
 
-<img width="3835" height="1362" alt="screencapture-onedrive-live-x-g-personal-68e5952a0e28ff48-IQBCNFCroJFQTIpdBu325jihAX8reFAm4uvJtNbfyJYMCdE-2026-05-18-21_58_05" src="https://github.com/user-attachments/assets/47f72f00-d6a3-4888-ae8a-2fb1bf6d049b" />
-
+<img width="1558" height="717" alt="Dasboard" src="https://github.com/user-attachments/assets/eb51759f-3cbc-4f89-958a-a2b0f1582729" />
 
 ## 👨‍💻 Created By
 
